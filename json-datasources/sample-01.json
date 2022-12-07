@@ -1,0 +1,35 @@
+{
+"count": 4,
+"results": [
+    {
+        "time": "2022-12-06T17:52:30.142Z",
+        "deviceId": "3021EF",
+        "humidity": 49,
+        "messageId": "1ed82601-e98a-4b78-a580-0c8a5ddd1e99"
+    },
+    {
+        "time": "2022-12-06T17:52:30.142Z",
+        "humidity": 45,
+        "deviceId": "3021EF",
+        "messageId": "1ed82601-e98a-4b78-a580-0c8a5ddd1e98"
+    },
+    {
+        "time": "2022-12-06T18:27:34.768Z",
+        "deviceId": "3021EF",
+        "humidity": 49,
+        "messageId": "1ed82601-e98a-4b78-a580-0c8a5ddd1e97"
+    },
+    {
+        "time": "2022-12-06T18:27:34.768Z",
+        "deviceId": "3021EF",
+        "temperature": 21.6,
+        "messageId": "1ed82601-e98a-4b78-a580-0c8a5ddd1e96"
+    }
+],
+"fields": [
+    "time",
+    "deviceId",
+    "humidity",
+    "messageId"
+    ]
+}
